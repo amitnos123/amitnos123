@@ -29,5 +29,5 @@ Currently, I’m the founder of **Violet Night**, where I’m building a secure,
 - [LinkedIn](https://www.linkedin.com/in/amit-nosatzki/)  
 - 📧 sami.nosatzki@gmail.com  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=amitnos123&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)	
-[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=amitnos123&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=amitnos123&theme=algolia&show_icons=true)](https://github.com/amitnos123)	
+[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=amitnos123&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/amitnos123)
